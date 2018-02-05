@@ -1,0 +1,11 @@
+System Hardware Requirements:
+4 GB RAM, CLock speed more than 2 GHtz
+
+System Software Requirements:
+Linux Destro
+Anaconda-Jupyter / Docker with following installetions-
+Tensorflow, Pandas, Numpy, ScikitLearn,Matplotlib, pyplot and some other (Which i do not remember as of now! ;-))
+
+All the data required for the execution is uploaded here.
+Still i could not upload result logs and blob files as the size is quite big.
+Anyone interested, ping me and ill share it to you!!
