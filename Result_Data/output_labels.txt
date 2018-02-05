@@ -1,0 +1,10 @@
+letter i
+letter b
+letter v
+letter g
+letter d
+letter l
+letter h
+letter a
+letter y
+letter c
